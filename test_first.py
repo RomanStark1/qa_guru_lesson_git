@@ -4,3 +4,7 @@ def test_first():
 
 def test_first1():
     assert 3 > 1
+
+def test_first3():
+    assert 14 > 1
+
